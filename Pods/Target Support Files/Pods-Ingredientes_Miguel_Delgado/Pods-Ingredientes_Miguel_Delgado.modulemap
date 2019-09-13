@@ -1,0 +1,6 @@
+module Pods_Ingredientes_Miguel_Delgado {
+  umbrella header "Pods-Ingredientes_Miguel_Delgado-umbrella.h"
+
+  export *
+  module * { export * }
+}
